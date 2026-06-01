@@ -5,7 +5,9 @@ export default function WhyUs() {
   return (
     <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
       <div className="text-center mb-12">
-        <h2 className="text-3xl font-bold text-[#D4AA04]">עיסוי עם נשמה.</h2>
+        <h2 className="text-3xl font-bold text-[#D4AA04]">
+          לרפא את הנפש בעזרת הגוף.
+        </h2>
         <p className="text-[#A39281] font-light mt-2">
           אנחנו פה בשביל מה שחשוב באמת.
         </p>

@@ -26,7 +26,7 @@ export default function Hero({ ctaLink }: HeroProps) {
       <div className="max-w-2xl mx-auto lg:mx-0 order-2 lg:order-1 flex flex-col items-center lg:items-start">
         {/* הבלון המתוקן: רקע לבן ב-50% שקיפות שיוצר גוון בהיר, רך ויוקרתי מעל הקרם של האתר */}
         <span className="inline-block text-[13px] uppercase tracking-widest text-[#D4AA04] font-extrabold bg-white/50 px-3 py-1.5 rounded-full mb-6 shadow-sm border border-white/20">
-          קליניקה אקסקלוסיבית לנשים בלבד
+          קליניקת בוטיק לנשים בלבד
         </span>
 
         {/* HERO HEADLINE */}
@@ -37,9 +37,8 @@ export default function Hero({ ctaLink }: HeroProps) {
 
         {/* HERO SUB-HEADLINE */}
         <p className="text-lg text-[#7A6B68] font-light mb-8 leading-relaxed">
-          סטודיו בוטיק אינטימי שבו את משלמת על איכות הטיפול והידיים המקצועיות,
-          ולא על השכירות של המלון. חווית ספא יוקרתית באווירה ביתית, עוטפת
-          ובטוחה.
+          הידיים הכי מקצועיות באילת, השמנים הכי איכותיים, השקט שחיפשת. מקום
+          שכולו רוך, נשיות ורוגע.
         </p>
 
         {/* MAIN CTA BUTTON */}

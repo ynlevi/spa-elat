@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import WhyUs from "./components/WhyUs";
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
+import Treatments from "./components/Treatments";
 
 export default function LandingPage() {
   const CALMARK_LINK = "https://calmark.io/p/XCXRN";
@@ -19,6 +20,7 @@ export default function LandingPage() {
       <Header ctaLink={CALMARK_LINK} />
       <main>
         <Hero ctaLink={CALMARK_LINK} />
+        <Treatments />
         <WhyUs />
         <Testimonials />
       </main>
