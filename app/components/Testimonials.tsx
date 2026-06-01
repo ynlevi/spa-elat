@@ -6,11 +6,11 @@ export default function Testimonials() {
     <section className="bg-[#EADFC9]/30 py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-light text-[#D4AA04]">
-            מה המטופלות שלנו מספרות?
+          <h2 className="text-3xl font-bold text-[#D4AA04] ">
+            מה הלקוחות שלנו אומרות?
           </h2>
           <p className="text-[#A39281] font-light mt-2">
-            ביקורות של נשים מאילת ונופשות שהתנתקו מהרעש
+            ביקורות של מטופלות שבחרו בעצמן{" "}
           </p>
         </div>
 
