@@ -52,26 +52,6 @@ const treatmentsData: Treatment[] = [
     imageUrl: "/images/body-scrub.jpg",
     imageAlt: "טיפול פילינג גוף מחדש ומזין עם מלחים ארומטיים",
   },
-  {
-    id: 5,
-    title: "עיסוי קצוות מרגיע",
-    description:
-      "טיפול ממוקד ומפנק המתרכז כולו בקרקפת, כפות הידיים וכפות הרגליים לשחרור מהיר של עומס ועייפות.",
-    duration: "45 דקות",
-    price: "₪220",
-    imageUrl: "/images/extremities-massage.jpg",
-    imageAlt: "עיסוי קרקפת ופנים מרגיע באווירת ספא אינטימית",
-  },
-  {
-    id: 6,
-    title: "חווית דזרט רוז המשולבת",
-    description:
-      "טיפול הדגל שלנו: שילוב מותאם אישית של עיסוי רקמות, אבנים חמות ורפלקסולוגיה לחוויה בלתי נשכחת.",
-    duration: "90 דקות",
-    price: "₪450",
-    imageUrl: "/images/desert-rose-signature.jpg",
-    imageAlt: "חווית ספא אקסקלוסיבית משולבת של מותג דזרט רוז",
-  },
 ];
 
 export default function Treatments() {
